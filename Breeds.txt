@@ -6,3 +6,4 @@ labrador
 husky
 bull dog
 
+stray dog
